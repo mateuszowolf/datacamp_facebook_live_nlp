@@ -1,3 +1,5 @@
+#This is my own working version of Datacamp's code along, original repository is here: https://github.com/datacamp/datacamp_facebook_live_nlp
+
 
 # Frequencies of words in novels: a Data Science pipeline
 
